@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+evidently_env/
+venv_lab5/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# Models (keep folder)
+lab4/models/*.pkl
+!lab4/models/.gitkeep
+
+# Database
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Next.js
+.next/
+out/
+node_modules/
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environment
+.env
+.env.local
