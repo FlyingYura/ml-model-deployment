@@ -2,7 +2,7 @@
 
 Deploy the asthma diagnosis model as a service: **FastAPI** backend + **Next.js** UI for training and inference.
 
-## What this lab covers
+## What this project covers
 
 - REST API: train model, single/batch predict, health checks
 - Model persistence (`lab4/models/model_latest.pkl`)
